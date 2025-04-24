@@ -1,7 +1,4 @@
-# Cosmic-power-Secret-
-Subconscious mind training 
-<!DOCTYPE html>
-<html lang="th">
+<!DOCTYPE html><html lang="th">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -53,29 +50,28 @@ Subconscious mind training
 <body>
   <div class="container">
     <h1>Cosmic Power Secret</h1>
-    <div class="tagline">ปลุกพลังจักรวาลในจิตใต้สำนึก กับอาจารย์ไชยวัชร พัชรพรพงศ์</div>
+    <div class="tagline">ปลุกพลังจักรวาลในจิตใต้สำนึก กับอาจารย์ไชยวัชร พัชรพรพงศ์</div><div class="section">
+  <p>คอร์สอบรม 2 วัน ที่จะเปลี่ยนชีวิตคุณจากภายใน</p>
+  <p>เรียนรู้วิธีเคลียร์พลังลบ โปรแกรมจิตใหม่ และเชื่อมต่อพลังจักรวาล</p>
+</div>
 
-    <div class="section">
-      <p>คอร์สอบรม 2 วัน ที่จะเปลี่ยนชีวิตคุณจากภายใน</p>
-      <p>เรียนรู้วิธีเคลียร์พลังลบ โปรแกรมจิตใหม่ และเชื่อมต่อพลังจักรวาล</p>
-    </div>
+<div class="section info-box">
+  <h2>รายละเอียดคอร์ส</h2>
+  <p>วันที่: [เพิ่มวันที่]</p>
+  <p>สถานที่: [เพิ่มสถานที่ หรือ ออนไลน์]</p>
+  <p>เวลา: 09:00 - 17:00 น.</p>
+</div>
 
-    <div class="section info-box">
-      <h2>รายละเอียดคอร์ส</h2>
-      <p>วันที่: [เพิ่มวันที่]</p>
-      <p>สถานที่: [เพิ่มสถานที่ หรือ ออนไลน์]</p>
-      <p>เวลา: 09:00 - 17:00 น.</p>
-    </div>
+<div class="section info-box">
+  <h2>ติดต่อสมัคร / สอบถาม</h2>
+  <p>LINE: [เพิ่ม ID หรือ QR Code]</p>
+  <p>โทร: [เบอร์ติดต่อ]</p>
+</div>
 
-    <div class="section info-box">
-      <h2>ติดต่อสมัคร / สอบถาม</h2>
-      <p>LINE: [เพิ่ม ID หรือ QR Code]</p>
-      <p>โทร: [เบอร์ติดต่อ]</p>
-    </div>
+<div class="section">
+  <button class="cta-button">สมัครเลย</button>
+</div>
 
-    <div class="section">
-      <button class="cta-button">สมัครเลย</button>
-    </div>
   </div>
 </body>
 </html>
